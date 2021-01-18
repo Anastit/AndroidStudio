@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="amout">Введите сумму</string>
+    <string name="inputText">Input text</string>
+    <string name="percent">15%</string>
+    <string name="tip">Чаевые:</string>
+    <string name="total">Всего:</string>
+</resources>
